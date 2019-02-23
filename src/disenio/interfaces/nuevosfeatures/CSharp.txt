@@ -1,0 +1,10 @@
+﻿
+
+private Action<int> notificar
+
+  COntadorEspecial(Action<int> notificar)
+
+   En Init 
+
+   new ContadorEspecial(z => accept(z))
+  
